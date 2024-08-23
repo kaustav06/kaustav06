@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAGOqKD6XhM/3Mns5f_7E1b7gP_jK8M93A/edit?utm_content=DAGOqKD6XhM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 <h1 align="center">Hi 👋, I'm Kaustav Manna</h1>
 <h3 align="center">A Computer Science Student In Brainware University</h3>
 
