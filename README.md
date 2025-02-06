@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustav06&label=Profile%20views&color=0e75b6&style=flat" alt="kaustav06" /> </p>
 
-- 📫 How to reach me **kaustav8670@gail.com**
+- 📫 How to reach me **kaustav8670@gmail.com**
 
 - ⚡ Fun fact **I Think I am Sleepy**
 
